@@ -1,0 +1,47 @@
+Source,Target,Weight,Type
+Between-The-Acts 1941,Jacob Room 1922,6,undirected
+Between-The-Acts 1941,Monday or Tuesday 1921,2,undirected
+Between-The-Acts 1941,The-Years 1936,3,undirected
+Between-The-Acts 1941,The Voyage out 1915,1,undirected
+Jacob Room 1922,Between-The-Acts 1941,6,undirected
+Jacob Room 1922,Monday or Tuesday 1921,2,undirected
+Jacob Room 1922,orlando 1928,4,undirected
+Jacob Room 1922,The-Waves 1931,2,undirected
+Jacob Room 1922,The-Years 1936,2,undirected
+Jacob Room 1922,The Voyage out 1915,1,undirected
+Jacob Room 1922,To the Lighthouse 1927,1,undirected
+Monday or Tuesday 1921,Between-The-Acts 1941,2,undirected
+Monday or Tuesday 1921,Jacob Room 1922,2,undirected
+Monday or Tuesday 1921,orlando 1928,1,undirected
+Monday or Tuesday 1921,The-Waves 1931,3,undirected
+Monday or Tuesday 1921,The Voyage out 1915,3,undirected
+Mrs-Dalloway 1925,Night and Day 1919,1,undirected
+Mrs-Dalloway 1925,orlando 1928,2,undirected
+Mrs-Dalloway 1925,The-Years 1936,1,undirected
+Mrs-Dalloway 1925,The Voyage out 1915,3,undirected
+Mrs-Dalloway 1925,To the Lighthouse 1927,6,undirected
+Night and Day 1919,Mrs-Dalloway 1925,1,undirected
+Night and Day 1919,orlando 1928,2,undirected
+Night and Day 1919,The Voyage out 1915,6,undirected
+orlando 1928,Jacob Room 1922,4,undirected
+orlando 1928,Monday or Tuesday 1921,1,undirected
+orlando 1928,Mrs-Dalloway 1925,2,undirected
+orlando 1928,Night and Day 1919,2,undirected
+orlando 1928,The-Waves 1931,1,undirected
+orlando 1928,The Voyage out 1915,5,undirected
+The-Waves 1931,Jacob Room 1922,2,undirected
+The-Waves 1931,Monday or Tuesday 1921,3,undirected
+The-Waves 1931,orlando 1928,1,undirected
+The-Years 1936,Between-The-Acts 1941,3,undirected
+The-Years 1936,Jacob Room 1922,2,undirected
+The-Years 1936,Mrs-Dalloway 1925,1,undirected
+The Voyage out 1915,Between-The-Acts 1941,1,undirected
+The Voyage out 1915,Jacob Room 1922,1,undirected
+The Voyage out 1915,Monday or Tuesday 1921,3,undirected
+The Voyage out 1915,Mrs-Dalloway 1925,3,undirected
+The Voyage out 1915,Night and Day 1919,6,undirected
+The Voyage out 1915,orlando 1928,5,undirected
+The Voyage out 1915,To the Lighthouse 1927,2,undirected
+To the Lighthouse 1927,Jacob Room 1922,1,undirected
+To the Lighthouse 1927,Mrs-Dalloway 1925,6,undirected
+To the Lighthouse 1927,The Voyage out 1915,2,undirected
