@@ -10,19 +10,21 @@
 - 按用途重新分组，文件名全部保留原样，便于与原始文件对应。
 - 跳过了 Excel 临时锁文件 `~$frequencies.xlsx`。
 - `Conrad_chance_1913.txt` 与 `Conrad_chance_1913(1).txt` 内容校验不同，因此两个版本均予以保留。
-- 共 97 个文件。
+- `Monday or Tuesday 1921.txt` 与 `The-Waves 1931.txt` 在 `corpus/` 与 `final essay paper/` 中内容完全一致，合并为一份。
+- 两处 `notes.docx` 内容不同：`final essay paper/` 中的版本保留在 `04-final-essay/`，顶层的版本放在 `01-course-materials/`。
+- 共纳入 95 个源文件，另有本 README 与 `.gitignore`。
 
 ## 目录结构
 
 | 目录 | 文件数 | 内容 |
 | --- | ---: | --- |
-| `01-course-materials/` | 15 | 课程手册、三次作业与配套阅读、AntConc / stylo 软件手册 |
+| `01-course-materials/` | 16 | 课程手册、三次作业与配套阅读、AntConc / stylo 软件手册、顶层笔记 |
 | `02-corpora/conrad/` | 25 | Conrad 小说与短篇文本语料（1895–1925） |
-| `02-corpora/woolf/` | 16 | Virginia Woolf 作品语料（1915–1941），含论文用短篇 |
+| `02-corpora/woolf/` | 14 | Virginia Woolf 作品语料（1915–1941），含论文用短篇 |
 | `03-analysis-outputs/csv/` | 10 | 聚类 / 距离分析导出的边表与节点表 |
 | `03-analysis-outputs/figures/` | 13 | CA、PCA、MDS 图表与词云截图 |
 | `03-analysis-outputs/tables/` | 11 | 词频表、关键词 / KWIC 结果、距离表、stylometry 配置 |
-| `04-final-essay/` | 7 | 课程论文草稿、笔记、参考论文与补充材料 |
+| `04-final-essay/` | 6 | 课程论文草稿、笔记、参考论文与补充材料 |
 
 ## 各目录详情
 
